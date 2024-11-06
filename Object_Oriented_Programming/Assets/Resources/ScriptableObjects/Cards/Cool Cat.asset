@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f3d62dbabfe7ba7478e3ebcd6c8ade71, type: 3}
-  m_Name: Dawg with knife
+  m_Name: Cool Cat
   m_EditorClassIdentifier: 
-  startHealth: 200
-  CardName: Dawg with Knife
-  CardImage: {fileID: 21300000, guid: 663feb8f2e5d0b546990eec7310426d0, type: 3}
-  CardDescription: He rob you
-  Attack: 5
-  Health: 200
-  nextCard: {fileID: 11400000, guid: 4b8fd305bbcb95b438e928bf979df9e7, type: 2}
+  startHealth: 180
+  CardName: Cool Cat
+  CardImage: {fileID: 21300000, guid: 7fff9a4693706b7428f3009258a01ce2, type: 3}
+  CardDescription: This cat is rad
+  Attack: 18
+  Health: 180
+  nextCard: {fileID: 11400000, guid: a48926a5f2a41b541b9d91b199a1d390, type: 2}

@@ -224,6 +224,7 @@ MonoBehaviour:
   cardName: {fileID: 1751844814}
   cardDesc: {fileID: 1833722992}
   Health: {fileID: 1686085661}
+  cards: []
 --- !u!4 &665852640
 Transform:
   m_ObjectHideFlags: 0

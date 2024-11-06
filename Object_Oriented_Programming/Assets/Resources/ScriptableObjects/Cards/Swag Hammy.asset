@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f3d62dbabfe7ba7478e3ebcd6c8ade71, type: 3}
-  m_Name: Dawg with knife
+  m_Name: Swag Hammy
   m_EditorClassIdentifier: 
-  startHealth: 200
-  CardName: Dawg with Knife
-  CardImage: {fileID: 21300000, guid: 663feb8f2e5d0b546990eec7310426d0, type: 3}
-  CardDescription: He rob you
-  Attack: 5
-  Health: 200
-  nextCard: {fileID: 11400000, guid: 4b8fd305bbcb95b438e928bf979df9e7, type: 2}
+  startHealth: 150
+  CardName: Swag Hammy
+  CardImage: {fileID: 21300000, guid: 4a8a566544015e34d82ca74062537e81, type: 3}
+  CardDescription: Hampter eating Nilla Waifer
+  Attack: 15
+  Health: 150
+  nextCard: {fileID: 11400000, guid: 0c3dbd1384c8ab6499f80dbac21ef552, type: 2}
