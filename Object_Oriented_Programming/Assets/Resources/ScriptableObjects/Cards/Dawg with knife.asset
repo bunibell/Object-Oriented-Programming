@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3d62dbabfe7ba7478e3ebcd6c8ade71, type: 3}
+  m_Name: Dawg with knife
+  m_EditorClassIdentifier: 
+  startHealth: 200
+  CardName: Dawg with Knife
+  CardImage: {fileID: 21300000, guid: 663feb8f2e5d0b546990eec7310426d0, type: 3}
+  CardDescription: He rob you
+  Attack: 5
+  Health: 200
+  nextCard: {fileID: 11400000, guid: f0c35fe6cfaa3e44b953265624f4950b, type: 2}
