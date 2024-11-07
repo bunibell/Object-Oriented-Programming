@@ -39,11 +39,6 @@ public class CardManager : MonoBehaviour
             currentcard = currentcard.nextCard;
         }
 
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-            currentcard = currentcard.nextCard;
-        }
-
         if (Input.GetKeyDown(KeyCode.Q))
         {
             currentcard.Health -= currentcard.nextCard.Attack;
